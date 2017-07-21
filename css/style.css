@@ -1,0 +1,42 @@
+html {
+  text-align: center;
+}
+
+body {
+  background: url("http://www.it.uu.se/bildbank_start2015/generella/iStock_000002456857Large_retusch_10_960x449.jpg");
+  background-size: cover;
+}
+
+.title {
+  color: rgba(255,255,255,0.8);
+}
+
+.rand {
+  margin-top: 20px;
+}
+
+#getRandom {
+  border: 10px;
+  border-color: white;
+}
+
+.lookup {
+  margin-top:30px;
+}
+
+#articles {
+  font-size: 24px;
+}
+
+#ulDiv {
+  border-radius:25px;
+  margin-top:30px;
+  background: rgba(255,255,255,0.6);
+}
+
+#listItem {
+  color: rgba(0,0,0,0.9);
+  font-weight: bold;
+  text-align: left;
+}
+
