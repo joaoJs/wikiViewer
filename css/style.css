@@ -3,7 +3,10 @@ html {
 }
 
 body {
-  background: url("http://www.it.uu.se/bildbank_start2015/generella/iStock_000002456857Large_retusch_10_960x449.jpg");
+  background: url("http://www.it.uu.se/bildbank_start2015/generella/iStock_000002456857Large_retusch_10_960x449.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
 }
 
@@ -39,4 +42,3 @@ body {
   font-weight: bold;
   text-align: left;
 }
-
